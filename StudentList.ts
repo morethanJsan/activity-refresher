@@ -71,6 +71,6 @@ export class StudentList {
     }
 
     updateGender(id: string, newGender: string) {
-        // find student using id
+        // try
     }
 }
